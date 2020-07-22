@@ -1,39 +1,39 @@
 
 Gm1KonverterCrossPlatform
 =======================
-A tool to convert strongholds gm1 files to png and png to GM1 Files.
+A tool to convert Stronghold and Stronghold Crusader .gm1 files to .png and vice versa.
 
 English:
 ---------
 Hello Guys,
 
-i started to programm a GM1 Exporter/Importer Programm for Windows and Linux.
+I created a tool to import/export GM1 and TGX files for Windows and Linux.
 
-If you have questions just add me on Discord: Gaaammmler#1397
+If you have any questions, just add me on Discord: Gaaammmler#1397
 
-For Donwloading the Programm click on the link and Download the Converter.zip on the assets symbol.
+To download the program just click on the link and download the Converter.zip on the assets symbol.
 
 ![Download](https://github.com/Gaaammmler/Gm1KonverterCrossPlatform/releases)
 
 ![img2](https://github.com/Gaaammmler/Gm1KonverterCrossPlatform/blob/master/GMConverterImages/img2.JPG)
 
 
-If you first start the Programm select your Stronghold GM1 Folder and a Workfolder folder under Options, you also can select between Languages: German/Russian/English
+During the first launch you will have to select your Stronghold GM1 Folder and a Workfolder folder under Options, you can also choose a different language: German/Russian/English
 
 ![img1](https://github.com/Gaaammmler/Gm1KonverterCrossPlatform/blob/master/GMConverterImages/img1.JPG)
 
-For more infos to an specific Filetype click on the Info Icon.
+For more info regarding specific filetypes click on the Info icon.
 
 ![img3](https://github.com/Gaaammmler/Gm1KonverterCrossPlatform/blob/master/GMConverterImages/img3.JPG)
 
-If you want Stronghold 1 Graphics in Crusader:
+If you want Stronghold 1 graphics in Crusader:
 ![SH1 Graphics](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics)
 
 Thanks to
 
 ![Lolasik011](https://github.com/Lolasik011) for the russian translation
 
-![metalvoidzz](https://github.com/metalvoidzz) for his Tutorial how to decode GM1 Files
+![metalvoidzz](https://github.com/metalvoidzz) for his tutorial on how to decode GM1 Files
 
 Deutsch
 ---------
